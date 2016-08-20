@@ -1,0 +1,11 @@
+I_Vac,,,,,,,,,,FuseBox
+,I_pmu,,,,,,,,,PMU
+,,I_microController,,,,,,,,uController
+,,I_ADC,,,,,,,,ADC
+,I_Light,,,,,,,,,Light
+,I_MotorAssy,,,,,,,,,Motor_Assembly
+,,I_Motor1,,,,,,,,Motor1
+I_Vbat,,,,,,,,,,FuseBox
+,I_Emergency,,,,,,,,,
+,,I_EmergencyCkt,,,,,,,,Controller
+,,I_EmergencyLight,,,,,,,,E.Light
