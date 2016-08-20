@@ -7,6 +7,8 @@ The user's workflow looks something like this:
 
 Tree idea > Spreadsheet Application > .csv > csv2gv > .gv > GraphViz > .png/.jpg
 
+This directory contains and example of such a tree description in sampleTree.csv. Open it in your favourite spreadsheet application, and then play with it.
+
 
 Pre-requesites
 --------------
@@ -21,7 +23,7 @@ Creates output.gv on the same directory. This also is hardcoded in the program.
 
 How to generate a picture showing the graph (Linux)
 ---------------------------------------------------
-cd csv2gv
-./bin/Debug/csv2gv
-dot -Tpng output.gv > output.png
+cd csv2gv;
+./bin/Debug/csv2gv;
+dot -Tpng output.gv > output.png;
 
